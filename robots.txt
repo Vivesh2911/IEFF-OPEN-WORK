@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ieffindia.com/sitemap-index.xml
+Sitemap: https://ieffindia.com/sitemap-index-1.xml
+Sitemap: https://ieffindia.com/sitemap.xml
+Sitemap: https://ieffindia.com/report.php?sitemap.xml
+Sitemap: https://ieffindia.com/abby.php?sitemap.xml
